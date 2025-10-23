@@ -1,8 +1,8 @@
-# Aether-Sagas
+# Aether-Galaxy
 Mythic space-opera setting released under CC BY 4.0. An open galaxy for writers, artists, GMs, and worldbuilders. “No canon, only coherence.”
 
 ## ✧ The Aetherverse: Powers and Orders
-Aether Sagas takes place ages ago, in a far-distant galaxy of many advanced species. Civilization is shaped by two Great Powers—and by the ancient Orders that stand beside them.
+Aether Galaxy takes place ages ago, in a far-distant galaxy of many advanced species. Civilization is shaped by two Great Powers—and by the ancient Orders that stand beside them.
 
 - **The Galactic Commonwealth** – a democratic republic of tens of thousands of inhabited worlds bound by cooperation, trade, and shared ideals. It seeks unity through representation rather than conquest.  
   - *Allied Order:* **The Concord** – mystic wardens of peace and galactic mediators who draw upon the Aether, a living energy that grants telekinesis, telepathy, and other gifts. They wield the radiant sunblade, an elegant weapon of focus and grace.  
