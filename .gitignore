@@ -1,0 +1,9 @@
+# Ignore LibreOffice temporary files
+.~lock.*
+~$*
+*.bak
+*.tmp
+*.swp
+*.log
+__MACOSX/
+Thumbs.db
