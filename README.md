@@ -11,3 +11,5 @@ Aether Sagas takes place ages ago, in a far-distant galaxy of many advanced spec
   - *Aligned Order:* **The Dread** – an ancient sect that preaches strength through passion. To them, domination is life’s true purpose, and fear and anger are the purest forms of will.
 
 Nine thousand years have passed since the Commonwealth’s founding. The balance of the galaxy stands upon the edge of a blade. Without heroes, there can be no hope.
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
