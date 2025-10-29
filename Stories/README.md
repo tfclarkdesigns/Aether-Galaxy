@@ -19,7 +19,7 @@ Stories are organized by format and intent:
 
 | Subdirectory / File | Description |
 |----------------------|-------------|
-| `/Archives/` | Recovered logs and transmissions written in-universe (*e.g.,* **Archives of the Lost**). |
+| `/Archives of the Lost/` | Anthology of stories in which characters passed before their time. |
 | `/Chronicles/` | Longer narrative works and campaign-derived stories. |
 | `/Fragments/` | Stand-alone vignettes, myths, and short experimental pieces. |
 
