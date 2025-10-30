@@ -1,0 +1,30 @@
+r5:
+Switched to Markdown as master copy, ODT now legacy-only.
+Converted formatting to CommonMark spec
+> unicode separators gone
+>page numbers gone
+>Table of contents page numbers omitted
+Archon: deleted last word from definition; redundant
+Fixed broken links to CC BY licences
+Bolded "Commonwealth Credits (Cr)" and "The Harnak Syndicates" in Economy and Trade
+Bolded "Galactic Common" in Language and Communication
+Technology Terms:
+> Hydrosocket: "fluid-energy coupling used" -> "hydraulic tool frequently used"
+> "Hypernet" -> "The Hypernet"
+> "Sometimes called 'data tablets' instead" -> "Short for data tablet."
+---
+r4:
+Galactic Age and Scale
+"The Aether Galaxy galaxy"->"The Aetherverse galaxy"
+
+Fixed typos in these sections: 
+Dread Inquistor
+Tungsteel
+Outer Rim description
+Tyssari Aetheric Attunement
+Ruqan adventure ideas
+
+Cleaned up definitions:
+blaster
+comm
+datatab
