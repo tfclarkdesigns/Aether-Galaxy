@@ -1,1 +1,1 @@
-This directory contains the ODT and PDF versions of the Aether Galaxy Foundational Guidebook.
+This directory contains the all versions of the Aether Galaxy Foundational Guidebook.
