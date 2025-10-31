@@ -1,40 +1,42 @@
- Field Catalog of Weros – r1
+# Field Catalog of Weros – r1
 
-⋆⋆⋆
+ ---
 
-Attribution Guide
-This project, Aether Galaxy, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
-When reusing or adapting material, please credit as follows:
-“Based on Aether Galaxy (CC BY 4.0) by Terrance Clark https://creativecommons.org/licenses/by/4.0/.”
-You may remix, redistribute, or commercialize this work freely as long as you include that credit.
-Legal Notice
+Attribution Guide  
+This project, Aether Galaxy, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).  
+When reusing or adapting material, please credit as follows:  
+“Based on Aether Galaxy (CC BY 4.0) by Terrance Clark https://creativecommons.org/licenses/by/4.0/.”  
+You may remix, redistribute, or commercialize this work freely as long as you include that credit.  
+Legal Notice  
 Aether Galaxy is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language, representations, or other content in Aether Galaxy media without the expressed written consent of the intellectual property holder.
 
-── ✧ ──
+---
+---
 
-"Captain, great to have you back! Time to restock your men?"
+### *"Captain, great to have you back! Time to restock your men?"*
 
-── ✧ ──
+---
+---
 
-# Weapons
+## Weapons
 
-Palm Blaster
-Price: Cr220
+### Palm Blaster  
+Price: Cr220  
 Comment: "Perfect for the Snod table."
 
-Blaster Pistol, Civilian
-Price: Cr200
+### Blaster Pistol, Civilian
+Price: Cr200  
 Comment: "Works fine on humans. Might be a bit under-kill for a Ruqan in battleplate."
 
-Blaster Pistol, Magnum
-Price: Cr400
-Comment: "Captain, now that's a weapon!"
+### Blaster Pistol, Magnum
+Price: Cr400  
+Comment: "Captain, now that's a weapon!"  
 
-Kinetic Pistol
-Price: Cr150
+### Kinetic Pistol  
+Price: Cr150  
 Comment: "You can fix one of these with an old hydrosocket and some instructions from the Hypernet."
 
-⋆⋆⋆
+---
 
 Blaster Rifle
 Price: Cr1300
