@@ -43,4 +43,4 @@ The project invites reinterpretation, translation, and expansion while preservin
 
 ---
 
-_Last updated {{ site.time | date: "%B %Y" }}_
+_Last updated {{ site.time | date: "%B %Y" }}_ 
