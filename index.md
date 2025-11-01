@@ -1,3 +1,8 @@
+---
+title: Aether Galaxy
+layout: default
+---
+
 # **Aether Galaxy**
 
 *An open Creative Commons mythic space-opera setting by Terrance Clark.*
