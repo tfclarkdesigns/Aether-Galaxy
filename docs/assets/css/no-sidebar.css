@@ -1,8 +1,54 @@
-/* Hide sidebar and stretch main content */
-.side-bar { display: none !important; }
+/* ===== Aether Galaxy – No Sidebar Layout ===== */
+
+/* 1. Hide the entire sidebar */
+.side-bar {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+}
+
+/* 2. Expand the main content area to full width */
 .main-content {
   margin-left: 0 !important;
   max-width: 100% !important;
   padding: 2rem !important;
 }
+
+/* 3. Ensure layout grid doesn’t reserve sidebar space */
+.main {
+  grid-template-columns: 1fr !important;
+}
+
+/* 4. Remove sidebar toggle button or mobile drawer */
+.site-button,
+.js-main-nav-trigger {
+  display: none !important;
+}
+
+/* 5. Optional – center and constrain text width for readability */
+.main-content .page {
+  max-width: 72ch;       /* ~optimal reading width */
+  margin: 0 auto;
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+/* 6. Optional – smooth heading hierarchy for “book-like” feel */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-top: 2.2rem;
+}
+
+/* 7. Optional – wider code blocks and figures */
+.main-content pre,
+.main-content code,
+.main-content img {
+  max-width: 100%;
+}
+
+/* ===== End ===== */
 
