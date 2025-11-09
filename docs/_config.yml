@@ -22,3 +22,7 @@ plugins:
 just_the_docs:
   show_sidebar: false
 
+aux_links_new_tab: true
+just_the_docs:
+  custom_css: ["assets/css/no-sidebar.css"]
+
