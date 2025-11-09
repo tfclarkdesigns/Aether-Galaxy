@@ -1,4 +1,6 @@
 # Archives of the Lost  
+nav_exclude: true
+search_exclude: true
 *A recovered anthology of apocryphal transmissions and field fragments from the Aether Galaxy.*
 
 ---

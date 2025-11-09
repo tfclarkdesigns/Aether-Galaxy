@@ -1,4 +1,6 @@
 # Supplements for the Aether Galaxy  
+nav_exclude: true
+search_exclude: true
 This directory contains all supplements which expand the setting itself with details beyond those in the Aether Galaxy Foundational Guidebook. 
 
 None of the content in this directory is to be considered strictly core content. However it all exists to serve and expand the mythic space opera tone of Aether Galaxy. 

@@ -1,4 +1,6 @@
 # Stories of the Aether Galaxy  
+nav_exclude: true
+search_exclude: true
 *A narrative collection set within the open mythic space of the Aetherverse.*
 
 ---
