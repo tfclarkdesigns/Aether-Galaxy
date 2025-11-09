@@ -1,9 +1,11 @@
 title: Aether Galaxy
 description: Open mythic space-opera (CC BY 4.0). "No canon, only coherence."
-theme: just-the-docs
+
+# Use the remote theme for GitHub Pages
+remote_theme: just-the-docs/just-the-docs
 
 url: https://tfclarkdesigns.github.io
-baseurl: /Aether-Galaxy   # required for project sites
+baseurl: /Aether-Galaxy
 
 search_enabled: true
 aux_links:
@@ -13,5 +15,6 @@ aux_links:
 footer_content: "© Aether Galaxy. Licensed under CC BY 4.0."
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
