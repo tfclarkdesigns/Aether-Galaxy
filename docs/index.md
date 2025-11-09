@@ -18,7 +18,7 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 ---
 
 ### 📘 Core Documents
-- **[Foundational Guidebook – r7]([[docs/Aether%20Galaxy%20-%20Foundational%20Guidebook%20–%20r5.md](https://github.com/tfclarkdesigns/Aether-Galaxy/tree/main/foundational-guidebook)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.md))** – defines the Aether, clarminite, Radiant and Shadow paths, core species, and major factions.  
+- **[Foundational Guidebook – r7](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.md)** – defines the Aether, clarminite, Radiant and Shadow paths, core species, and major factions.  
 - **[Field Catalog of Weros – r2](docs/Field%20Catalog%20of%20Weros%20-%20r2.md)** – flora, fauna, and resource reference for planetary surveyors.  
 - **Appendices A & B** – lexicon, timeline, and Creative Commons attribution notes.  
 
