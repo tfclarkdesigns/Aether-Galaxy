@@ -19,10 +19,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
+  aux_links_new_tab: true
+
 just_the_docs:
   show_sidebar: false
-
-aux_links_new_tab: true
-just_the_docs:
-  custom_css: ["assets/css/no-sidebar.css"]
+  custom_css:
+    - "/assets/css/no-sidebar.css"   # leading slash = from site root
 
