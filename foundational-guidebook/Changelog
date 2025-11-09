@@ -1,3 +1,8 @@
+r7:
+Clarified CC BY: "You may remix, redistribute, or commercialize this work freely as long as you include that credit **and indicate if changes were made.**"  
+
+Expanded on and categorized "Appendix B: Relevant Public Domain Terminology and Technologies" section and removed redundant comment after the section
+
 r5:
 Switched to Markdown as master copy, ODT now legacy-only.
 Converted formatting to CommonMark spec
