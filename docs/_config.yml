@@ -1,4 +1,17 @@
-title: "Aether Galaxy"
-description: "An open Creative Commons mythic space-opera setting by Terrance Clark."
-theme: jekyll-theme-minimal
-show_downloads: false
+title: Aether Galaxy
+description: Open mythic space-opera (CC BY 4.0). "No canon, only coherence."
+theme: just-the-docs
+
+url: https://tfclarkdesigns.github.io
+baseurl: /Aether-Galaxy   # required for project sites
+
+search_enabled: true
+aux_links:
+  "Aether Galaxy on GitHub":
+    - "https://github.com/tfclarkdesigns/Aether-Galaxy"
+
+footer_content: "© Aether Galaxy. Licensed under CC BY 4.0."
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
