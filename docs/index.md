@@ -18,10 +18,23 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 ---
 
 ### 📘 Core Documents
-- **[Foundational Guidebook – r7](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.md)** – defines the Aether, clarminite, Radiant and Shadow paths, core species, and major factions.  
-- **[Field Catalog of Weros – r2](docs/Field%20Catalog%20of%20Weros%20-%20r2.md)** – flora, fauna, and resource reference for planetary surveyors.  
-- **Appendices A & B** – lexicon, timeline, and Creative Commons attribution notes.  
+**Foundational Guidebook** - the living heart of the whole project; begin here
+- **[Foundational Guidebook – r7 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.md)**  
+- **[Foundational Guidebook – r7 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.pdf)**  
 
+### 📘 Supplementary Documents  
+**Astrogation Holocodex** - A standardized reference defining stellar addresses and methods for calculating Aetherflight distances and travel times
+- **[Astrogation Holocodex-r2 (Markdown](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/astrogation-holocodex-r1.md)** 
+- **[Astrogation Holocodex-r2 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/astrogation-holocodex-r2.pdf)** 
+
+**Field Catalog of Weros** - An in-universe guide to galactic gear, framed as a visit to a Weros equipment trader
+- **[Field Catalog of Weros-r3 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/field-catalog-of-weros-r3.md)**  
+- **[Field Catalog of Weros-r3 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/field-catalog-of-weros-r3.pdf)**
+
+**The Will of Order** - The Iron Dominion’s own account of its creed
+- **[The Will of Order-r1 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/the-will-of-order-r1.md)**
+- **[The Will of Order-r1 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/the-will-of-order-r1.pdf)**
+  
 *(All files are hosted in this GitHub repository for transparency and version tracking.)*
 
 ---
@@ -29,7 +42,7 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 ### 🪞 Project Repositories
 - 🧭 **Primary GitHub Repository:** [tfclarkdesigns/Aether-Galaxy](https://github.com/tfclarkdesigns/Aether-Galaxy)  
 - 🗄️ **Permanent Archive:** [Internet Archive Collection – @aethergalaxyoriginal](https://archive.org/details/@aethergalaxyoriginal)  
-- 🐘 **Mastodon Updates:** [Follow @AetherGalaxy@mastodon.social](https://mastodon.social/@AetherGalaxy) *(replace with your actual account if different)*  
+- 🐘 **Mastodon Updates:** [Follow @AetherGalaxy@mastodon.social](https://mastodon.social/@tfclark)  
 
 ---
 
