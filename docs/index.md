@@ -18,12 +18,13 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 ---
 
 ### 📘 Core Material
-**Foundational Guidebook** - the living heart of the whole project; begin here
+**Foundational Guidebook** - the living heart of the whole project; start here
 - **[Foundational Guidebook – r7 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.md)**  
 - **[Foundational Guidebook – r7 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/aether-galaxy-foundational-guidebook-r7.pdf)**  
 
 ### 📘 Supplementary Documents  
-**Astrogation Holocodex** - A standardized reference defining stellar addresses and methods for calculating Aetherflight distances and travel times
+**Astrogation Holocodex** - A standardized reference defining stellar addresses and methods for calculating spatial distances and hyperspace travel times
+
 - **[Astrogation Holocodex-r2 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/astrogation-holocodex-r1.md)** 
 - **[Astrogation Holocodex-r2 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/astrogation-holocodex-r2.pdf)** 
 
