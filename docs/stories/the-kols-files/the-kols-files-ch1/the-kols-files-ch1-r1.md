@@ -40,4 +40,8 @@ I holster my blaster and unclip his carbine. Better reach, better leverage. Now 
 ---
 ---
 
-> *Based on “The Kols Files” (CC BY 4.0) by Terrance Clark — https://creativecommons.org/licenses/by/4.0/*
+> *Based on “The Kols Files” (CC BY 4.0) by Terrance Clark — https://creativecommons.org/licenses/by/4.0/*  
+
+---
+
+r1
