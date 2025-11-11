@@ -1,0 +1,67 @@
+name: Publish files to Pages (latest + versioned)
+
+on:
+  push:
+    branches: [ main ]        # keep /latest up to date on every push
+    tags:     [ 'v*', '*.*.*' ]  # create /vX.Y.Z/ when you push a tag
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  # List your source folders here (space-separated). The job will copy them if they exist.
+  SOURCE_DIRS: "foundational-guidebook stories supplements markdown"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # let us see tags
+
+      - name: Derive run context (branch vs tag)
+        id: meta
+        run: |
+          echo "is_tag=$([ \"$GITHUB_REF_TYPE\" = \"tag\" ] && echo true || echo false)" >> $GITHUB_OUTPUT
+          echo "tag_name=${GITHUB_REF_NAME}" >> $GITHUB_OUTPUT
+          echo "version=${GITHUB_REF_NAME#v}" >> $GITHUB_OUTPUT
+
+      - name: Prepare docs/files/latest
+        run: |
+          mkdir -p docs/files/latest
+          rm -rf docs/files/latest/*
+
+      - name: Copy sources into /latest (preserve top-level dirs)
+        run: |
+          set -e
+          for dir in $SOURCE_DIRS; do
+            if [ -d "$dir" ]; then
+              mkdir -p "docs/files/latest/$dir"
+              cp -R "$dir"/. "docs/files/latest/$dir"/ || true
+            fi
+          done
+          # If you also keep loose PDFs/MDs at the repo root, include them:
+          shopt -s nullglob
+          root_files=( *.pdf *.md )
+          if [ ${#root_files[@]} -gt 0 ]; then
+            mkdir -p docs/files/latest/root
+            cp -R "${root_files[@]}" docs/files/latest/root/ || true
+          fi
+
+      - name: Create version snapshot /docs/files/vX.Y.Z (only on tag)
+        if: steps.meta.outputs.is_tag == 'true'
+        run: |
+          mkdir -p "docs/files/v${{ steps.meta.outputs.version }}"
+          cp -R docs/files/latest/. "docs/files/v${{ steps.meta.outputs.version }}"/
+
+      - name: Commit and push Pages content
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/files
+          git commit -m "Pages: update latest $([[ '${{ steps.meta.outputs.is_tag }}' == 'true' ]] && echo "and snapshot v${{ steps.meta.outputs.version }}")" || echo "No changes"
+          git push
+
