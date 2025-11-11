@@ -11,8 +11,8 @@ permissions:
   contents: write
 
 env:
-  # List your source folders here (space-separated). The job will copy them if they exist.
-  SOURCE_DIRS: "foundational-guidebook stories supplements markdown"
+  SOURCE_DIRS: "foundational-guidebook stories supplements markdown docs/foundational-guidebook docs/stories docs/supplements docs/markdown"
+
 
 jobs:
   publish:
