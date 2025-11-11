@@ -25,7 +25,7 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 ### 📘 Supplementary Documents  
 **Astrogation Holocodex** - A standardized reference defining stellar addresses and methods for calculating spatial distances and hyperspace travel times
 
-- **[Astrogation Holocodex-r2 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/astrogation-holocodex-r1.md)** 
+- **[Astrogation Holocodex-r2 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/astrogation-holocodex.md)** 
 - **[Astrogation Holocodex-r2 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/releases/download/r7/astrogation-holocodex-r2.pdf)** 
 
 **Field Catalog of Weros** - An in-universe guide to galactic gear, framed as a visit to a Weros equipment trader
