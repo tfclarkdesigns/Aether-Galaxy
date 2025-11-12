@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./aether-galaxy-thumbnail.png" alt="Aether Galaxy" width="600"><br/>
+  <sub><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • <a href="https://tfclarkdesigns.github.io/Aether-Galaxy/">tfclarkdesigns.github.io/Aether-Galaxy</a></sub>
+</p>
 # Aether-Galaxy
 Mythic space-opera setting released under CC BY 4.0. An open galaxy for writers, artists, GMs, and worldbuilders. “No canon, only coherence.”
 
