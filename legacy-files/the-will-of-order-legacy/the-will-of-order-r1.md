@@ -16,7 +16,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 
 Reminder: Under CC BY, reusers must not imply the author’s endorsement of derivative works. See Author's Note for further details.
 
-#### *The Will of Order* – r2
+#### *The Will of Order* – r1
 
 ---
 
@@ -38,9 +38,7 @@ What is strength? As the Master said:
 
 A weak state invites chaos and does not even deserve to exist.  
 
-Thus, we say, 
-
->  "The *iron dominion* of the Archon is law, unless the Archon is found to be too weak to rule."
+Thus, we say, "the *iron dominion* of the Archon is law, unless the Archon is found to be too weak to rule."
 
 ---
 

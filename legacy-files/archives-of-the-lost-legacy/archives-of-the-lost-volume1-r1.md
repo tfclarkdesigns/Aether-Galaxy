@@ -1,6 +1,14 @@
-## **Archives of the Lost, Volume 1**
+## **Archives of the Lost, Volume 1 - r1**
 ---
-#### *A recovered anthology of apocryphal transmissions and field fragments from the Aether Galaxy.*
+### *A recovered anthology of apocryphal transmissions and field fragments from the Aether Galaxy.*
+
+
+---
+repository: <https://github.com/tfclarkdesigns>
+
+license: CC BY 4.0
+
+license URL: <https://creativecommons.org/licenses/by/4.0/>
 
 ---
 ---
@@ -10,13 +18,13 @@
 **Location:** Qas Almeidi desert, 200 km from nearest settlement
 
 **Recovered Metadata:**
-Name: Koth-Alos  
-Species: Ruqan  
-Profession: Ore Miner  
-Source: Personal data tablet log (partial corruption)  
-Estimated Date: GSY 9000-1  
-Integrity: 73 % (Aetheric reconstruction)  
-Classification: Apocryphal Survivor Record  
+Name: Koth-Alos
+Species: Ruqan
+Profession: Ore Miner
+Source: Personal data tablet log (partial corruption)
+Estimated Date: GSY 9000-1
+Integrity: 73 % (Aetheric reconstruction)
+Classification: Apocryphal Survivor Record
 
 > I am stranded in the desert with eight other miners, my crew, my brothers in the dust. We were mining clarminite and gold when the storm hit.
 >
@@ -34,13 +42,3 @@ Classification: Apocryphal Survivor Record
 **Archivist’s Commentary: On the Early Worlds**
 
 > *The planet Qas Almeidi remains the earliest recorded world in recovered pre-Commonwealth Rim data. Perilous and remote, it yields the first known transmissions now preserved within the Archives of the Lost.*
-
----
----
-
-> *Based on “The Kols Files” (CC BY 4.0) by Terrance Clark — https://creativecommons.org/licenses/by/4.0/*
-
-> r2
-
----
-"No canon; only coherence"

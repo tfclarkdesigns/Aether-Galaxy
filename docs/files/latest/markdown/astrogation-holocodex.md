@@ -18,7 +18,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 ### Legal Notice  
 *Aether Galaxy* is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language, representations, or other content in *Aether Galaxy* media without the express written consent of the intellectual property holder.
 
-##### Astrogation Holocodex – r1
+##### Astrogation Holocodex – r2
 
 ---
 
@@ -37,8 +37,8 @@ Compliance is mandatory for all Commonwealth vessels engaging in registered trad
 
 Two systems define how the Commonwealth locates and travels between worlds:
 
-- **ARC — Astrogation Registry Code**  – The administrative “postal address” of a world.  
-- **GCC — Galactic Coordinate Code**  – The navigational “map coordinate” in kilolight-years.  
+- **ARC – Astrogation Registry Code**  – The administrative “postal address” of a world.  
+- **GCC – Galactic Coordinate Code**  – The navigational “map coordinate” in kilolight-years.  
 
 Each complements the other: **ARC tells you where** a world belongs; **GCC tells you where** it physically is.
 
@@ -65,7 +65,7 @@ Region – Cluster – Sector – System – World
 
 #### Cluster
 
-A **Cluster** is a local district within one of the galaxy’s five major regions — **Core, Inner Rim, Middle Rim, Outer Rim,** or **Unsettled Space.**  
+A **Cluster** is a local district within one of the galaxy’s five major regions: **Core, Inner Rim, Middle Rim, Outer Rim,** or **Unsettled Space.**  
 Each region maintains its **own set of Clusters**, labeled independently and reused nowhere else.  
 
 Every Cluster spans roughly **700 light-years**, about a **week’s travel** for a slow hyperdrive or **two days** for an average civilian ship.   
@@ -73,7 +73,7 @@ Within that span lie hundreds of Sectors and thousands of Systems, all sharing a
 
 Clusters are **irregular in shape**, drawn along trade corridors, natural hazards, and political boundaries.   
 For most spacers, a Cluster means *“close enough to reach within a few days.”*   
-For the Bureau, it is the fundamental unit of registry — a district where every world has a place, even if the lines don’t match the stars.  
+For the Bureau, it is the fundamental unit of registry, a district where every world has a place, even if the lines don’t match the stars.  
 
 > **Approximate proximity:** Same Region + same Cluster → within ~700 ly.  
 
@@ -383,7 +383,7 @@ Region: Unsettled Space (U)
 
 ## Author’s Note  
 
-The **ARC** and **GCC** were devised to make an unimaginably large space — an entire galaxy — comprehensible.  
+The **ARC** and **GCC** were devised to make an unimaginably large space, an entire galaxy, comprehensible.  
 They do so through records and simple, consistent calculation.  
 
 However, if you as a creator do not wish to use these systems, they are entirely optional.  
@@ -392,7 +392,7 @@ For this reason, these standards were introduced *outside* the **Aether Galaxy F
 
 Whatever conventions you adopt, I offer two points for consideration.  
 
-**First**, any interstellar polity as vast as the Galactic Commonwealth or Iron Dominion would need some form of world registry, something functionally analogous to the ARC — even if it goes unmentioned in your narrative.  
+**First**, any interstellar polity as vast as the Galactic Commonwealth or Iron Dominion would need some form of world registry, something functionally analogous to the ARC, even if it goes unmentioned in your narrative.  
 Any two planets might share a name, but for purely logistical reasons they could not share an address.  
 
 **Second**, some method of locating a stellar system must exist, whether or not it is described in detail.  
