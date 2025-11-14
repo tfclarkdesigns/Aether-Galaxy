@@ -3,9 +3,16 @@ title: Aether Galaxy
 layout: default
 ---
 
-# **Aether Galaxy**
+# Aether Galaxy
+
+<p align="center">
+  <img src="./aether-galaxy-thumbnail.png" style="max-width: 100%; height: auto;" />
+</p>
 
 *An open Creative Commons mythic space-opera setting by Terrance Clark.*
+
+
+
 
 ---
 
@@ -19,7 +26,7 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 
 ### 📘 Core Material
 **Foundational Guidebook** - the living heart of the whole project; start here
-- **[Foundational Guidebook – r7 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/aether%20Galaxy-foundational-guidebook.md)**  
+- **[Foundational Guidebook – r7 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/aether-galaxy-foundational-guidebook.md)**  
 - **[Foundational Guidebook – r7 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/PDF/aether-galaxy-foundational-guidebook.pdf)**  
 
 ### 📘 Supplementary Documents  
