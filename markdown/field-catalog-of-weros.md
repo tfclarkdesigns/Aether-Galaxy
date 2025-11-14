@@ -1,7 +1,7 @@
 # Field Catalog of Weros
 
- ---
- ---
+---
+---
 
 ### Attribution Guide  
 This project, Aether Galaxy, is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).  
@@ -13,7 +13,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 ### Legal Notice  
 Aether Galaxy is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language, representations, or other content in Aether Galaxy media without the expressed written consent of the intellectual property holder.
 
-##### Field Catalog of Weros – r2
+##### Field Catalog of Weros – r3
 
 ---
 
@@ -291,59 +291,51 @@ Comment: "Frigate-class ships are where business turns into commitment. Crews, l
 #### Grade 1 
 - Speed:  		50 light-years per day	
 - Drive Cost:  	Cr25,000 (very rare)
-- Ship Cost:  	0.125x
 - Notes:  		Heavy, inefficient, near-extinct
 
 
 ####  Grade 2
 - Speed:  		100 light-years per day
 - Drive Cost:  	Cr50,000
-- Ship Cost:  	0.25x
 - Notes:  		Bare-minimum modern FTL access
 
 
 ####  Grade 3
 - Speed:  		200 light-years per day
 - Drive Cost:  	Cr100,000
-- Ship Cost:  	0.5x
 - Notes:  		Common in freighters and passenger ships
 
 
 ####  Grade 4
 - Speed:  		400 light-years per day
 - Drive Cost:  	Cr200,000
-- Ship Cost:  	1x
 - Notes:  		Modern civilian standard, some patrol vehicles
 
 
 ####  Grade 5  
 - Speed:  		800 light-years per day
 - Drive Cost:  	Cr400,000
-- Ship Cost:  	2x
 - Notes:  		express couriers, some military
 
 
 ####  Grade 6 
 - Speed:  		1,600 light-years per day
 - Drive Cost:  	Cr800,000
-- Ship Cost:  	4x
 - Notes:  		Fast military and recon ships
 
 
 ####  Grade 7 
 - Speed:  		3,200 light-years per day
 - Drive Cost:  	Cr1.6 million (rare)
-- Ship Cost:  	8x
 - Notes:  		Elite vessels, purcase restricted
 
 
 ####  Grade 8 
 - Speed:  		6,400 light-years per day
 - Drive Cost:  	Cr3.2 million (extremely rare)
-- Ship Cost:  	16x
 - Notes:  		Experimental prototypes
 
 ---
----  		
+---
 
 ### *"Always good doing business, Captain. Try not to bring it back in pieces this time."*

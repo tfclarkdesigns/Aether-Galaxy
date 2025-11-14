@@ -159,7 +159,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 Aether Galaxy is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language,  representations, or other content in Aether Galaxy media without the expressed written consent of the intellectual property holder.
 
 ## Release
-Aether Galaxy: Foundational Guidebook – r7
+Aether Galaxy: Foundational Guidebook – r8
 
 ---
 
@@ -189,7 +189,7 @@ Stories help keep the galaxy alive. This story is yours now too.
 ## Welcome to the Aetherverse
 Aether Galaxy takes place ages ago, in a far-distant galaxy. It is home to many advanced space-faring species. Yet conflict is far from banished. Two great powers struggle to shape the destiny of civilization according to their vision.
 
-The Galactic Commonwealth is a democratic republic of tens of thousands of inhabited worlds bound by representation, cooperation, trade, and mutual benefit.
+The Galactic Commonwealth is a democratic republic of tens of thousands of ecologically prime inhabited worlds bound by representation, cooperation, trade, and mutual benefit.
 
 Aligned with its ideals stand the Concord Knights, an ancient order of mystic wardens of peace and galactic mediators.
 
@@ -816,7 +816,7 @@ A somewhat rare Dominion world where order feels almost comfortable. Its garriso
 **Climate:** Temperate, alpine  
 **Economy:** Large, manufacturing  
 
-A world whose people believe peace endures only through readiness. Every citizen serves; every home keeps arms; every border bristles with deterrence. Its arms industry rivals that of smaller Commonwealth sectors, and Dominion analysts quietly advise against invasions as simulations label the planet too expensive to pacify. Politically neutral and economically shrewd, Weros trades weapons and expertise to all sides, ensuring that whoever wins, Weros prospers.
+A world whose people believe peace endures only through readiness. Every citizen serves; every home keeps arms; every border bristles with deterrence. Its arms industry rivals that of most Commonwealth sectors, and Dominion analysts quietly advise against invasions as simulations label the planet too expensive to pacify. Politically neutral and economically shrewd, Weros trades weapons and expertise to all sides, ensuring that whoever wins, Weros prospers.
 
 ---
 ## Outer Rim
