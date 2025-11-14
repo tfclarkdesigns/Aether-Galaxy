@@ -1,4 +1,4 @@
-# 2025-11-DD
+# 2025-11-13
 
 ## AGFG:  
 
@@ -33,3 +33,13 @@
 - Put release number and license at bottom  
 - Add slogan  
 - Formatted attribution like The Kols Files  
+
+---
+
+- Fixed homepage thumbnail and link path issues
+
+- Updated GitHub Pages site layout
+
+- Published Aether Galaxy thumbnail artwork
+
+- Preparing for Kols Files Chapter 3 release
