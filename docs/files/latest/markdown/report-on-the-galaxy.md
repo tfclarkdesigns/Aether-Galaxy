@@ -1,3 +1,10 @@
+# 2025-11-14
+- uploaded The Kols Files, Chapter 3 in Markdown and PDF
+- added The Kols Files to GitHub Pages site.
+- changed this file's name for compatibility
+
+---
+
 # 2025-11-13
 
 ## AGFG:  
