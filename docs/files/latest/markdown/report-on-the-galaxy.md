@@ -1,6 +1,7 @@
 # 2025-11-14
 - uploaded The Kols Files, Chapter 3 in Markdown and PDF
-- added The Kols Files to GitHub Pages site.
+- added The Kols Files and this file to GitHub Pages site.
+- Cleaned up GitHub Pages site formatting and made all file names stable 
 - changed this file's name for compatibility
 
 ---
