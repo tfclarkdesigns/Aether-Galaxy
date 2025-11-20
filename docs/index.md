@@ -57,7 +57,7 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 - **[Archives of the Lost, Volume 1 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/archives-of-the-lost-volume1.md)**
 - **[Archives of the Lost, Volume 1 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/PDF/archives-of-the-lost-volume1.pdf)**
 
-**The Kols Files** - The adventures of a human young bounty hunter
+**The Kols Files** - The adventures of a young human bounty hunter
 - **[The Kols Files, Chapter 1 (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/the-kols-files-ch1.md)**
 - **[The Kols Files, Chapter 1 (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/PDF/the-kols-files-ch1.pdf)**
 - **[The Kols Files, Chapter 2  (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/the-kols-files-ch2.md)**
