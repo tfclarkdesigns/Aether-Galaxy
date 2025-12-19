@@ -1,3 +1,9 @@
+# 2025-12-16 to 19
+- Finalized r1 of Civilian Starships Reference
+- Updated GitHub Pages site with CSR supplement
+
+---
+
 # 2025-11-20
 
 **Aether Galaxy remains one of my greatest joys**  
