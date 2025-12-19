@@ -51,8 +51,8 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 - **[The Will of Order (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/PDF/the-will-of-order.pdf)**
 
 **Civilian Starships Reference** - A gradually expanding collection of starships with ASCII floorplans
-- **[Civilian Starships Reference (Markdown)] (GitHub URL)**
-- **[Civilian Starships Reference (PDF)] (GitHub URL)**
+- **[Civilian Starships Reference (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/civilian-starships-reference.md)**
+- **[Civilian Starships Reference (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/PDF/civilian-starships-reference.pdf)**
 
 ---
 
