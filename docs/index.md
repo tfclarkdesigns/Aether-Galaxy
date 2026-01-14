@@ -55,8 +55,8 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 - **[Civilian Starships Reference (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/PDF/civilian-starships-reference.pdf)**
 
 **Military Starships Reference** - A gradually expanding collection of warships with ASCII floorplans
-- **[Military Starships Reference (Markdown)]()**
-- **[Military Starships Reference (PDF)]()**
+- **[Military Starships Reference (Markdown)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/military-starships-reference.md)**
+- **[Military Starships Reference (PDF)](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/latest/markdown/military-starships-reference.md)**
 
 ---
 
@@ -79,8 +79,8 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 
 ### Third-Party Materials
 **Aether Galaxy d20 Character Sheet** - a basic and very useful sheet designed by Patrick Williams for Aether Galaxy RPG characters in D&D-derived systems
-- **[Aether Galaxy d20 Character Sheet (Markdown)](LINK to Markdown)**
-- **[Aether Galaxy d20 Character Sheet (PDF)](LINK to PDF)**
+
+- **[Aether Galaxy d20 Character Sheet](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/third-party/assets/Patrick%20Williams/Attachments-Aether%20Galaxy%20Character%20Sheet.zip)**
 
 ### Project Repositories
 - **Primary GitHub Repository:** [tfclarkdesigns/Aether-Galaxy](https://github.com/tfclarkdesigns/Aether-Galaxy)  
