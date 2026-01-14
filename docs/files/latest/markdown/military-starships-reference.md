@@ -230,54 +230,64 @@ The Accipiter-class **WLF-5** is a fast, versatile warship designed for **escort
 - **Hyperspace Signature:** Aggressive, detectable at long range.
 
 ---
+`[ WLF-5 Accipter-class — Upper Deck ]`
 
-[ WLF-5 Accipter-class — Upper Deck ]
 
-                    [ BOW / FORWARD ]
 
-┌───────────────────────────────────────────────┐
-│                                                       BRIDGE                                                             │
-│                            Command • Navigations • Tactical • Comms                        │
-└───────────────┬───────────────────────────────┘
-                                            │
-┌───────────────┴───────────────────────────────┐
-│  OFFICER QUARTERS     │                      CREW BERTHS                                     │
-│  (Capt, XO)                                               (Enlisted, NCOs)                                  │
-└───────────────┬───────────────────────────────┘
-                                            │
-┌───────────────────────────────────────────────┐
-│                                          WEAPONS CONTROL                                                  │
-│                             Targeting • Ordnance • Ladder                                              │
-└───────────────┬───────────────────────────────┘
-                                            │
-┌───────────────────────────────────────────────┐
-│                                       MESS HALL / COMMONS                                              │
-│                                   (Briefing • Rations • Hypernet)                                         │
-└───────────────┬───────────────────────────────┘
-                                            │
-┌───────────────┴───────────────────────────────┐
-│  HYGIENE                       │         STORAGE                                                            │
-│    Ladder                         │  Tools • Spare Parts                                                  │
-└───────────────────────────────────────────────┘
+```
+[ BOW / FORWARD ]
 
-[ WLF-5 Accipter-class — Lower Deck ]
+┌───────────────────────────────────────────────────────────┐
+│                           BRIDGE                          │
+│        Command • Navigation • Tactical • Comms            │
+└───────────────────────────────┬───────────────────────────┘
+                                │
+┌───────────────────────────────┴───────────────────────────┐
+│  OFFICER QUARTERS             │        CREW BERTHS        │
+│  (Captain, XO)                │  (Enlisted, NCOs)         │
+└───────────────────────────────┬───────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│                      WEAPONS CONTROL                      │
+│              Targeting • Ordnance • Access Ladder         │
+└───────────────────────────────┬───────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│                    MESS HALL / COMMONS                    │
+│        Briefing • Rations • Hypernet Access               │
+└───────────────────────────────┬───────────────────────────┘
+                                │
+┌───────────────────────────────┴───────────────────────────┐
+│  HYGIENE / SANITATION         │          STORAGE          │
+│  Showers • Heads • Ladder     │  Tools • Spares • Cargo   │
+└───────────────────────────────────────────────────────────┘
+```
 
-                    [ BOW / FORWARD ]
+---
 
-┌───────────────────────────────────────────────┐
-│                                                   ARMORY                                                               │
-│              Small Arms • Armor • Munitions • Supply Kits • Ladder                    │
-└───────────────┬───────────────────────────────┘
-                                            │
-┌───────────────┴───────────────────────────────┐
-│  MED BAY                             ENGINEERING                                                        │
-│  (Trauma • Cryo)            │  (Hyper • Power • Damge Control)                        │
-└───────────────┬───────────────────────────────┘
-                                            │
-┌───────────────────────────────────────────────┐
-│                             HANGAR BAY or MARINE BERTHS                                         │
-│                                                 Ladder                                                                    │ 
-└───────────────────────────────────────────────┘`
+
+                         [ BOW / FORWARD ]
+
+```
+┌───────────────────────────────────────────────────────────┐
+│                           ARMORY                          │
+│   Small Arms • Armor • Munitions • Supply Kits • Ladder   │
+└───────────────────────────────┬───────────────────────────┘
+                                │
+┌───────────────────────────────┴───────────────────────────┐
+│  MED BAY                      │        ENGINEERING        │
+│  Trauma • Cryo                │  Hyper • Power • Damage   │
+│                               │  Control                  │
+└───────────────────────────────┬───────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│                HANGAR BAY / MARINE BERTHS                 │
+│          Shuttle • Drop Pods • Marine Lockers             │
+│                         Ladder                            │
+└───────────────────────────────────────────────────────────┘
+```
+
+
 
 
 

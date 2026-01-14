@@ -1,4 +1,4 @@
-Here’s the full revised version as raw Markdown code, incorporating all the suggested changes:
+
 
 ````markdown
 # Third-Party Files Directory

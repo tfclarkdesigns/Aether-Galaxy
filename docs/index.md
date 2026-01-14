@@ -82,7 +82,10 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 
 - **[Aether Galaxy d20 Character Sheet](https://github.com/tfclarkdesigns/Aether-Galaxy/blob/main/docs/files/third-party/assets/Patrick%20Williams/Attachments-Aether%20Galaxy%20Character%20Sheet.zip)**
 
+---
+
 ### Project Repositories
+
 - **Primary GitHub Repository:** [tfclarkdesigns/Aether-Galaxy](https://github.com/tfclarkdesigns/Aether-Galaxy)  
 - **Permanent Archive:** [Internet Archive Collection – @aethergalaxyoriginal](https://archive.org/details/@aethergalaxyoriginal)  
 - **Mastodon Updates:** [Follow @AetherGalaxy@mastodon.social](https://mastodon.social/@tfclark)  
