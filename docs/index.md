@@ -73,6 +73,11 @@ All text and artwork released here are covered by the [Creative Commons Attribut
 
 ---
 
+### Third-Party Materials
+**Aether Galaxy d20 Character Sheet** - a basic and very useful sheet designed by Patrick Williams for Aether Galaxy RPG characters in D&D-derived systems
+- **[Aether Galaxy d20 Character Sheet (Markdown)](LINK to Markdown)**
+- **[Aether Galaxy d20 Character Sheet (PDF)](LINK to PDF)**
+
 ### Project Repositories
 - **Primary GitHub Repository:** [tfclarkdesigns/Aether-Galaxy](https://github.com/tfclarkdesigns/Aether-Galaxy)  
 - **Permanent Archive:** [Internet Archive Collection – @aethergalaxyoriginal](https://archive.org/details/@aethergalaxyoriginal)  
