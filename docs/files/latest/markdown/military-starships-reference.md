@@ -15,7 +15,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 ### Legal Notice  
 *Aether Galaxy* is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language, representations, or other content in *Aether Galaxy* media without the express written consent of the intellectual property holder.
 
-##### Military Starships Reference - r1
+##### Military Starships Reference - r3
 
 ### Introduction
 This supplement explores a selection of military ship models of varying classes. Like its sister supplement, the *Civilian Starships Reference*, it will be revised and expanded and is intended to be both remixed and personalized.
@@ -182,28 +182,29 @@ Below are all hyperdrive grades used throughout the Aether Galaxy, listed in num
 # Zelenor Fleet Industries "Accipiter-class" Light Frigate (WLF-5)
 
 ### Overview
-The Accipiter-class **WLF-5** is a fast, versatile warship designed for **escort, reconnaissance, and rapid strike missions**. It balances **speed, firepower, and endurance**, making it a staple of the modern Galactic Commonwealth's fleet. Often deployed in **system defense, anti-piracy patrols, and fleet support roles**. The Accipter-class is also availble with a Grade 6 hyperdrive.
+The **Accipiter-class** WLF-5 is a fast, versatile warship designed for **escort, reconnaissance, and rapid strike missions**. It balances **speed, firepower, and endurance**, making it a staple of the modern Galactic Commonwealth's fleet. Often deployed in **system defense, anti-piracy patrols, and fleet support roles**. The Accipter-class is also availble with a Grade 6 hyperdrive despite its more typical military drive in the original design.
 
 ---
 
 ### Specifications
 
-**Class:** Accipiter-class light frigate (WLF-5)
-**Manufacturer:** Zelenor Fleet Industries
-**Hull Type:** Military-grade starcraft
-**Price:** **Cr1,200,000 ± Cr150,000** (varies by refit, armament, and hyperdrive condition)
-**Hyperdrive Grade:** **5** (800 light-years/day)
-**Sublight Performance:** High (optimized for rapid intercepts and evasive maneuvers)
+**Class:** Accipiter-class light frigate (WLF-5)  
+**Manufacturer:** Zelenor Fleet Industries  
+**Hull Type:** Military-grade starcraft  
+**Price:** **Cr1,200,000 ± Cr150,000** (varies by refit, armament, and hyperdrive condition)  
+**Hyperdrive Grade:** **5** (800 light-years/day)  
+**Sublight Performance:** High (optimized for rapid intercepts and evasive maneuvers)   
 **Armament:**
 
-- **Primary:** Dual heavy blaster turrets (forward-mounted)
-- **Secondary:** 4x atomic missile pods (anti-ship/anti-fighter)
-- **Defensive:** Point-defense lasers, ECM suite
-**Cargo Capacity:** Light (munitions, spare parts, small cargo)
-**Troop Capacity:** 12 marines or 1 light  vehicle
-**Crew:** 10–15 (command, engineering, weapons, support)
-**Common Users:** Galactic Commonwealth, mercenary squadrons, rapid-response fleets
-**Mission Profile:** Escort, reconnaissance, anti-piracy, fleet skirmishing
+- **Primary:** Dual heavy blaster turrets (forward-mounted)  
+- **Secondary:** 4x atomic missile pods (anti-ship/anti-fighter)  
+- **Defensive:** Point-defense lasers, ECM suite  
+
+**Cargo Capacity:** Light (munitions, spare parts, small cargo)  
+**Troop Capacity:** 12 marines or 1 light  vehicle  
+**Crew:** 10–15 (command, engineering, weapons, support)  
+**Common Users:** Galactic Commonwealth, mercenary squadrons, rapid-response fleets  
+**Mission Profile:** Escort, reconnaissance, anti-piracy, fleet skirmishing  
 
 ---
 
