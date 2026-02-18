@@ -1,3 +1,9 @@
+# 2026-2-18
+- Added five new items to the Field Catalog of Weros
+- Fixed a couple typos in the same document
+
+---
+
 # 2026-1-13 to 2026-1-14
 - Created military starships reference up to r3
 - Added third-party RPG character sheet by Patrick Williams to website
