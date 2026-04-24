@@ -15,7 +15,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 ### Legal Notice  
 *Aether Galaxy* is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language, representations, or other content in *Aether Galaxy* media without the express written consent of the intellectual property holder.
 
-##### Military Starships Reference - r3
+##### Military Starships Reference - r4
 
 ### Introduction
 This supplement explores a selection of military ship models of varying classes. Like its sister supplement, the *Civilian Starships Reference*, it will be revised and expanded and is intended to be both remixed and personalized.
@@ -179,7 +179,7 @@ Below are all hyperdrive grades used throughout the Aether Galaxy, listed in num
 
 ---
 
-# Zelenor Fleet Industries "Accipiter-class" Light Frigate (WLF-5)
+## Zelenor Fleet Industries "Accipiter-class" Light Frigate (WLF-5)
 
 ### Overview
 The **Accipiter-class** WLF-5 is a fast, versatile warship designed for **escort, reconnaissance, and rapid strike missions**. It balances **speed, firepower, and endurance**, making it a staple of the modern Galactic Commonwealth's fleet. Often deployed in **system defense, anti-piracy patrols, and fleet support roles**. The Accipter-class is also availble with a Grade 6 hyperdrive despite its more typical military drive in the original design.
@@ -265,7 +265,7 @@ The **Accipiter-class** WLF-5 is a fast, versatile warship designed for **escort
 ```
 
 ---
-
+`[ WLF-5 Accipter-class — Lower Deck ]`
 
                          [ BOW / FORWARD ]
 
@@ -286,12 +286,167 @@ The **Accipiter-class** WLF-5 is a fast, versatile warship designed for **escort
 │          Shuttle • Drop Pods • Marine Lockers             │
 │                         Ladder                            │
 └───────────────────────────────────────────────────────────┘
+
 ```
 
 
+---
 
+## Werosian Defense Systems "Hellsender-class" Medium Destroyer (WMD-4)
 
+### Overview
+
+The Hellsender-class WMD-4 is a purpose-built defensive deterrent designed for independent systems unwilling to surrender sovereignty. Built by Werosian Defense Systems—an arms manufacturer whose entire culture is built on readiness and deterrence—the Hellsender embodies a singular philosophy: make invasion so costly that no aggressor can justify it. She sacrifices mobility and flexibility for overwhelming forward firepower and heavy armor. Slow in transit, terrifyingly quick to rotate. Her way is not so much to chase enemies as to herd them into her broadside. A badger of the spaceship world—compact, fierce, and far more dangerous than her size suggests.
+
+### Specifications
+
+**Class:** Hellsender-class medium destroyer (WMD-4)
+**Manufacturer:** Werosian Defense Systems
+**Hull Type:** Military-grade defensive warship
+**Price:** Cr2,800,000 ± Cr200,000; varies by refit, ordnance loadout, and customization
+**Hyperdrive Grade:** 4 (400 light-years/day; upgradeable to Grade 5 or 6 with proper refit)
+**Sublight Performance:** Low, poor acceleration and lateral agility; exceptionally responsive reaction control thrusters for rapid orientation
+
+**Armament:**
+
+- **Primary:** 8x atomic torpedo launch tubes (forward saturation battery; 0.1c velocity)
+- **Secondary:** 1x heavy interceptor pod for point-defense against fighters and fast-movers
+- **Tertiary:** 1x customizable hardpoint (customer-configured; often point-defense lasers, ECM suite, or sensor package)
+
+**Armor Profile:** Heavy forward sections; reinforced amidships around reactor and torpedo magazines; comparatively lighter aft section
+**Cargo Capacity:** Minimal (ammunition resupply, spare parts, local ordnance production materials)
+**Troop Capacity:** 35 marines or one medium vehicle
+**Crew:** 18–24 (command, engineering, weapons systems, damage control, ordnance management)
+**Common Users:** Independent systems near Iron Dominion or pirate territories; Weros itself maintains a substantial Hellsender fleet
+**Mission Profile:** System defense, deterrent presence, layered anti-access/area-denial doctrine
+
+### Operational Notes
+
+**Doctrine:** The Hellsender isn't intended to chase. Her low sublight speed is *intentional*--she fights at home, on her terms. Her reaction control thrusters are exceptionally powerful, allowing her to pivot and present her broadside in seconds. The tactic is elegant: appear slow and vulnerable, allow an aggressor to approach or maneuver, then rotate to face them with 80% of her firepower. Many hostile captains have learned too late that they've been herded into her primary firing arc.
+
+**Magazine Warfare:** She carries enough atomic torpedoes for sustained defensive engagement but is not designed for long campaigns far from home. Independent systems using Hellsenders pair them with resupply operations and local ordnance production. An aggressor's supply lines are thousands of light-years away. Hers are local.
+
+**The Customizable Hardpoint:** Werosian Defense Systems provides the ship with one unequipped hardpoint, allowing purchasers to outfit it based on their specific threat environment. This reflects a fundamental design philosophy: "We provide 90% of your defense. You know your threats. Adapt the last 10% to your needs."
+
+**Reliability:** Built for sustained defensive operations in a single system. Requires heavy maintenance after combat but is designed for quick field repairs using locally-sourced materials.
+
+**Crew Workload:** Extremely high during combat. The weapon systems and damage control require constant attention. Skeleton crew possible for transit only.
+
+**Comfort:** Minimal. Spartan quarters, crowded spaces. Crew accommodations are secondary to ammunition storage and engineering.
+
+**Hyperspace Signature:** Aggressive and detectable at long range.
+
+**The Weakness:** Without magazines, she loses her primary advantage. A prolonged siege could starve her into irrelevance. She is also sluggish in open-space engagements against fast, maneuverable opponents--which is why independent systems pair her with corvettes and fast interceptors for layered defense.
 
 ---
+
+### Interior Layout (Typical Configuration)
+
+**Bridge** - Command center, navigation, tactical stations  
+**Crew Quarters** - Compact bunks for officers and enlisted; minimal privacy  
+**Ordnance Magazine** - Primary atomic torpedo storage; heavily shielded and isolated  
+**Reactor Core** - Massive power plant; drives rotation thrusters and weapon systems  
+**Weapons Control** - Central targeting hub for all torpedo systems; multiple crew stations  
+**Engineering** - Hyperdrive, sublight engines, damage control center  
+**Armor Shaping** - Specialized plating around magazine and critical systems  
+**Marine Berths** - Space for boarding team and security personnel  
+**Auxiliary Magazine** - Secondary ordnance storage  
+**Common Area** - Briefing space, minimal recreation  
+**Sanitation** - Heads and hygiene facilities  
+**Maintenance Lockers** - Tools, spares, repair materials  
+
+`[ WMD-4 Hellsender-class — Upper Deck ]`
+
+
+
+```
+[ BOW / FORWARD ]
+┌───────────────────────────────────────────────────────────┐
+│ TORPEDO LAUNCH ARRAY                                      │
+│ (Forward Saturation Battery – 8 Tubes)                    │
+│ Heavy Bow Armor / Fire Control Integration                │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ BRIDGE / COMMAND                                          │
+│ Tactical • Navigation • Targeting • Fleet Comms           │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ WEAPONS CONTROL CENTER                                    │
+│ Targeting • Fire Sequencing • Lift • Sensor Fusion        │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ OFFICER QUARTERS                                          │
+│ Captain • XO • Tactical Staff                             │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ CREW BERTHS                                               │
+│ Weapons Teams • Sensor Ops • Duty Rotation                │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ MESS / COMMONS                                            │
+│ Briefing • Minimal Recreation • Lift • Rations            │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ MAINTENANCE LOCKERS                                       │
+│ Tools • Spares • Field Repair Kits                        │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ INTERCEPTOR POD MOUNT / MARINE BERTHS                     │
+│ Point Defense Craft • Boarding Teams                      │
+└───────────────────────────────────────────────────────────┘
+```
+
+---
+`[ WMD-4 Hellsender-class — Lower Deck ]`
+
+                         [ BOW / FORWARD ]
+
+```
+┌───────────────────────────────────────────────────────────┐
+│ REACTOR CORE / POWER PLANT                                │
+│ Main Output • Rotation Thruster Feed • Weapon Systems     │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ ENGINEERING                                               │
+│ Hyperdrive • Lift • Sublight Drives                       │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ PRIMARY ORDNANCE MAGAZINE                                 │
+│ Atomic Torpedoes • Heavily Shielded • Blast Isolation     │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ AUXILIARY MAGAZINE / ORDNANCE RESERVE                     │
+│ Secondary Torpedoes • Sustained Engagement Stockpile      │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ ARMOR SHAPING / STRUCTURAL CORE                           │
+│ Reinforced Bulkheads • Forward Impact Redistribution      │
+└───────────────────────────────────────────────────────────┘
+                                │
+┌───────────────────────────────────────────────────────────┐
+│ SANITATION / LIFE SUPPORT                                 │
+│ Enviro Control • Waste Processing • Lift • Hygiene        │
+└───────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Design Philosophy
+
+The Hellsender represents **Werosian pragmatism distilled into steel**: every independent system wants to remain independent. Few can afford true capital ships. The Hellsender exists to make that possible, not through mobility or versatility, but through overwhelming defensive firepower, heavy armor, and the discipline to hold position. She is the answer to imperial aggression from a civilization that believes "peace endures only through readiness."
+
+Paired with corvettes and light frigates in a layered anti-access/area denial doctrine, she transforms her system into a fortress. She may not be beautiful. She may not be graceful. But she is brutally effective at what she was designed to do: make conquest too expensive to justify.
+
 ---
 > *No canon; only coherence.*

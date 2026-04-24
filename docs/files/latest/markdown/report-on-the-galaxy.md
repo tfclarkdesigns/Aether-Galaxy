@@ -1,3 +1,8 @@
+# 2026-4-23
+- Added Hellsender-class destroyer to Military Starships Reference
+
+---
+
 # 2026-2-18
 - Added five new items to the Field Catalog of Weros
 - Fixed a couple typos in the same document
