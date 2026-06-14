@@ -1,6 +1,6 @@
 # Aether Galaxy
 
-![NGC 2683 spiral galaxy, taken by NASA, 2012](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NGC_2683_Spiral_galaxy.jpg/2000px-NGC_2683_Spiral_galaxy.jpg)
+![NGC 2683](https://apod.nasa.gov/apod/image/1402/ngc2683_gendler_3000.jpg)  
 
 ## Foundational Guidebook
 
@@ -159,7 +159,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 Aether Galaxy is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language,  representations, or other content in Aether Galaxy media without the expressed written consent of the intellectual property holder.
 
 ## Release
-Aether Galaxy: Foundational Guidebook – r8
+Aether Galaxy: Foundational Guidebook – r9
 
 ---
 
@@ -254,6 +254,13 @@ Clarminite, an intriguing silvery-white mineral, appears to interact with both t
 
 **Sunblade Style** - A formalized discipline of sunblade combat emphasizing clarity, precision, and inner equilibrium. Every Concord Knight refines their technique through a chosen Sublade style, reflecting both philosophy and temperament.
 
+> *"Life grows with peace.*  
+> *Peace grows with humility.*  
+> *Humility grows with wisdom.*  
+> *Wisdom grows with the Aether.*  
+> *The Aether grows with life.*"  
+— Litany of the Concord
+
 ---
 ---
 
@@ -278,6 +285,11 @@ Clarminite, an intriguing silvery-white mineral, appears to interact with both t
 **Governor Council** - convocation of the Dominion’s most powerful Governors, serving as both advisory body and rival court beneath the Archon. Their alliances and rivalries shape the Dominion’s internal politics as much as its wars.
 
 **Assault Troopers** - The Dominion’s elite infantry, indoctrinated from youth and clad in storm-gray armor. They serve as both soldiers and symbols of Dominion authority, advancing wherever the Archon’s will demands submission.
+
+> *"So let me get this straight. You're the heart of galactic civilization and you don't even have a unified standing military? How haven't you been conquered by the Dominion by this point?"*  
+> *"How long do you have?"*  
+
+
 
 ---
 
@@ -332,6 +344,9 @@ Seedier pursuits such as gambling vary in legality across districts due to the d
 ### Snod
 Snod is a fast, low-deck card game played on a holomat. Players frequently take bets and win or lose everything but their boots. Each player tries to “lock” a run before the next holo pulse flips the field. It’s as much timing as it is bluff and superstition. Winning hands are called “bright snods”; total losses, “dead snods.” Some stations broadcast high-stakes snod tournaments over the Hypernet, though official odds are often as rigged as the holo fields.
 
+> *"Thousands of years of technological progress and I still can't find anything to keep busy this weekend."*  
+> *"Have you tried not blowing all your credits at the snod table?"*  
+
 ---
 
 ---
@@ -349,7 +364,7 @@ Clarbrew, Harnak Rum, Ironshot, and of course Otenno Stout remain staples of can
 
 **Harnak Rum**  
 **Base:** Distilled from sea-bloom kelp native to Harnak water-worlds, aged in coral casks under high pressure.  
-**Color:** Deep violet-black with shifting green highlights when swirled.
+**Color:** Deep violet-black with shifting green highlights when swirled.  
 **Effect:** Mild euphoria, warmth, and an empathic “glow” caused by trace bioluminescent proteins.  
 **Cultural Note:** The Harnak call it “the sea’s revenge on sobriety.” Exported from Outer Rim bars to Core clubs.
 
@@ -384,8 +399,8 @@ Effect: hyper-focus and slowed perception of time; severe burnout afterward.
 
 **Slipleaf**  
 **Source:** Dried leaves of a marsh-growing plant native to the Outer Rim.  
-**Use:** Smoked in small rolls or pipes; occasionally steeped into vapor incense...
-**Effect:** Mild time dilation and body-lightness. Users describe sensations of “slipping a few seconds out of step” or floating just behind their own thoughts. Excessive use can cause disorientation, memory gaps, or emotional flattening.  
+**Use:** Smoked in small rolls or pipes; occasionally steeped into vapor incense...  
+**Effect:** Mild time dilation and body-lightness. Users describe sensations of “slipping a few seconds out of step” or floating just behind their own thoughts. Excessive use can cause disorientation, memory gaps, or emotional flattening.    
 **Cultural Note:** Popular among spacers and laborers for its calming, detached clarity during long shifts. Outer Rim mystics use it for meditation, while the Concord discourages its practice as a “false stillness.”  
 **Status:** Legal on most Rim worlds; restricted in the Core; banned aboard Commonwealth ships.
 
@@ -556,7 +571,7 @@ Large, swift, domesticated herbivorous rodent commonly used as a riding animal.
 **Mass:** 400–600 kg.  
 **Example Planets:** Tyssara, Yertil.
 
- *“You think vorp beetles are bad? I was stranded on Qas Almeidi in a village surrounded by gricks for a week.”*
+ > *“You think vorp beetles are bad? I was stranded on Qas Almeidi in a village surrounded by gricks for a week.”*
 
 ---
 
@@ -896,6 +911,11 @@ A pale, wind-scoured world of frozen seas and endless tundra. Life here clings t
 ## Uncharted Regions
 Since the Uncharted Regions are defined by their lack of entry in galactic astronomical records, they truly are a blank space on the map. They remain unknown and ripe for adventure, but only for the bravest of starship captains.
 
+> *"What's the next contract?"*
+> *"73 tonnes of data tablets to Val Kos"*
+> *"Isn't that in Dominion territory?"*
+> *"Yes, and our new freighter captains there ask a similar question when their hauls bring them here."*
+
 ---
 
 ---
@@ -1211,7 +1231,7 @@ Joseph Campbell
 Setting developed by Terrance Clark with editorial and research assistance from ChatGPT (GPT-5, OpenAI). Every section was planned, reviewed, and rewritten by the human author.
 
 ```
-Cover image is in the public domain, NGC 2683 spiral galaxy, taken by NASA, 2012
+Cover image is in the public domain, NGC 2683 spiral galaxy, taken by NASA, 2012, https://apod.nasa.gov/apod/ap140205.html
 ```
 
 ### License
