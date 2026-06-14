@@ -1,27 +1,36 @@
-# 2026-4-23
+## 2026-6-14
+- Downgraded headings in this document by one degree
+### Foundation Guidebook - r9
+- Added flavor text to the following sections: The Aether and Related Concepts, Galactic Politics, Entertainment and Leisure, Gazetteer
+- Fixed formatting for flavor text in Non-Sapient Life section
+- Fixed spacing in Slipleaf entry of Drugs section
+- Fixed direct image link on title page so it can display properly again
+---
+
+## 2026-4-23
 - Added Hellsender-class destroyer to Military Starships Reference
 
 ---
 
-# 2026-2-18
+## 2026-2-18
 - Added five new items to the Field Catalog of Weros
 - Fixed a couple typos in the same document
 
 ---
 
-# 2026-1-13 to 2026-1-14
+## 2026-1-13 to 2026-1-14
 - Created military starships reference up to r3
 - Added third-party RPG character sheet by Patrick Williams to website
 
 ---
 
-# 2025-12-16 to 2025-12-19
+## 2025-12-16 to 2025-12-19
 - Finalized r1 of Civilian Starships Reference
 - Updated GitHub Pages site with CSR supplement
 
 ---
 
-# 2025-11-20
+## 2025-11-20
 
 **Aether Galaxy remains one of my greatest joys**  
 But the truth is simple: right now I’m not operating at a level that allows me to treat it with the care and energy it deserves.
@@ -38,7 +47,7 @@ Thank you to everyone who’s journeying with me.
 The galaxy is quiet, but still lives.  
 More is coming.
 
-# 2025-11-14
+## 2025-11-14
 - uploaded The Kols Files, Chapter 3 in Markdown and PDF
 - added The Kols Files and this file to GitHub Pages site.
 - Cleaned up GitHub Pages site formatting and made all file names stable 
@@ -46,36 +55,36 @@ More is coming.
 
 ---
 
-# 2025-11-13
+## 2025-11-13
 
-## AGFG:  
+### AGFG:  
 
-### r8 updates:
+#### r8 updates:
 
 - Tens of thousands of *ecologically prime* inhabited planets.
 - Weros "smaller sectors" -> "most sectors"
 
-## Astrogation Holocodex  
+### Astrogation Holocodex  
 
-### r2 updates
+#### r2 updates
 
 - Toned down the em dashes to only quotes
 
-## Field Catalog of Weros
+### Field Catalog of Weros
 
-### r3 updates
+#### r3 updates
 
 - Remove ship cost multiplier
 
-## The Will of Order  
+### The Will of Order  
 
-### r2 updates
+#### r2 updates
 
 - Block quote second quote in Law of the Strong
 
-## Archives of the Lost
+### Archives of the Lost
 
-### r2 updates
+#### r2 updates
 
 - Fix metadata table  
 - Put release number and license at bottom  
