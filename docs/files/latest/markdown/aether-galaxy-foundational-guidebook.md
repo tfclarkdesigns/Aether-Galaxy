@@ -1,6 +1,5 @@
 # Aether Galaxy
-![NGC 2683](https://apod.nasa.gov/apod/image/1402/ngc2683_gendler_3000.jpg)
-
+<img src="../../../media/images/ngc2683_gendler_3000.jpg" width="800">
 ## Foundational Guidebook
 
 ### An Open Framework for Mythic Space Opera
