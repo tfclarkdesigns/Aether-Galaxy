@@ -25,63 +25,65 @@
 
 ### Welcome to the Aetherverse
 
- ### The Aether and Related Concepts
+### The Aether and Related Concepts
 
 ### Galactic Politics
 
 ### Life in the Galaxy
 
-- Galactic Age and Scale
+Galactic Age and Scale  
 
-- Economy and Trade
+Economy and Trade  
 
-- Language and Communication
+Language and Communication  
 
-- Entertainment and Leisure
+Timekeeping  
 
-- Snod
+Entertainment and Leisure  
+
+Snod  
 
 **Intoxicants**
 
-- Popular Cantina Drinks
+Popular Cantina Drinks  
 
-- Other intoxicants
+Other intoxicants  
 
 ### Common Species
 
-- Birin
+Birin  
 
-- Delor
+Delor  
 
-- Harnak
+Harnak  
 
-- Human
+Human  
 
-- Ruqan
+Ruqan  
 
-- Tyssari
+Tyssari  
 
 ### Non-Sapient Life
 
-- Dwall
+Dwall  
 
-- Grick
+Grick  
 
-- Rim Dragon
+Rim Dragon  
 
-- Semro Hound
+Semro Hound  
 
-- Vorp Beetle
+Vorp Beetle  
 
-- Yatin
+Yatin  
 
 ### Exotic Materials
 
-- Clarminite
+Clarminite  
 
-- Fortiplas
+Fortiplas  
 
-- Tungsteel
+Tungsteel  
 
 ### Technology Terms
 
@@ -89,57 +91,75 @@
 
 ### Galactic Regions
 
-- Core Space
+Core Space  
 
-- Inner Rim
+Inner Rim  
 
-- Middle Rim
+Middle Rim  
 
-- Outer Rim
+Outer Rim  
 
-- Unsettled Space
+Unsettled Space  
 
-- Uncharted Regions
+Uncharted Regions  
 
 ### Gazetteer
 
-- Core Space
+Core Space  
 
-- Inner Rim
+Inner Rim  
 
-- Middle Rim
+Middle Rim  
 
-- Outer Rim
+Outer Rim  
 
-- Unsettled Space
+Unsettled Space  
 
-- Uncharted Regions
+Uncharted Regions  
 
-### Timekeeping
 
 ### Appendix A: Relevant Public Domain Terminology	
 
+Spacecraft and Travel  
+
+Governance and Hierarchy  
+
+Locations and Regions  
+
+People and Roles  
+
+Technology and Weapons  
+
+Communication and Sensors  
+
+Celestial and Environmental  
+
+Warfare and Defense  
+
+Concepts and Events  
+
+
 ### Appendix B: Creator's Toolkit	
 
-> Purpose
+Purpose  
 
-> License Reference
+License Reference  
 
-> Tone and Style Guidelines
+Tone and Style Guidelines  
 
-> Terminology Reference
+Terminology Reference  
 
-> Common reference terms
+Common reference terms  
 
-> Creative Expansion Guidance
+Creative Expansion Guidance  
 
-> Acknowledgment and Invitation
+Acknowledgment and Invitation  
 
-> Very Special Thanks to
+Very Special Thanks to  
 
-> Credits	
+Credits	
 
-> License
+License  
 
 ---
 
@@ -157,7 +177,7 @@ You may remix, redistribute, or commercialize this work freely as long as you in
 Aether Galaxy is unaffiliated with any existing media franchise. Please refrain from using copyrighted or trademarked language,  representations, or other content in Aether Galaxy media without the expressed written consent of the intellectual property holder.
 
 ## Release
-Aether Galaxy: Foundational Guidebook – r9
+Aether Galaxy: Foundational Guidebook – r10
 
 ---
 
@@ -327,7 +347,23 @@ A shared language known as **Galactic Common**, the official administrative tong
 Many species also speak their own native languages alongside Common. Depending on design and function, bots communicate either in binary or in a wide range of organic sapient languages. The most widespread tongues outside of Common are Harnese, Tyss, Spacer’s Pidgin, and Binary.
 
 ---
+
 ---
+
+## Timekeeping
+Commonwealth’s clock consists of a day of twenty-four hours, a year of three-hundred-sixty-five days, with a leap day every fourth year. Coropolis keeps the time, and the Hypernet carries it; ships and stations fall into step when the beacons catch them. Worlds keep their own daylight as they please, but law, trade, and history are written in GST. When dates disagree, the galaxy syncs with the clocks on Coropolis.
+
+The Galactic Standard timekeeping records time by descending order of scale year, day, hour; every archive reads the same from the Core to the Rim:
+
+ 
+
+This may be variously written. Examples include:
+ 
+- GSY 9000-127-08:17
+- 9000-127
+- 127-8:17 morning
+
+Despite standardization, the galaxy is large and some other local variants persist.
 
 ## Entertainment and Leisure
 Entertainment is an important aspect of life in the galaxy. In most heavily industrialized regions, total workweek hours are relatively short, and sapients often have an abundance of free time.
@@ -356,7 +392,7 @@ Clarbrew, Harnak Rum, Ironshot, and of course Otenno Stout remain staples of can
 ### Popular Cantina Drinks
 **Clarbrew**  
 **Base:** Diluted clarminite filtrate mixed with distilled algae spirits.  
-**Color:** Bright teal, faintly luminescent.
+**Color:** Bright teal, faintly luminescent.  
 **Effect:** Mild euphoria and clarity; drinkers describe “hearing” background harmonics of the Aether.  
 **Cultural Note:** Originated as a Delor recipe and later mass-produced in the Commercial Sector. Popular among scholars and mystics.
 
@@ -403,6 +439,7 @@ Effect: hyper-focus and slowed perception of time; severe burnout afterward.
 **Status:** Legal on most Rim worlds; restricted in the Core; banned aboard Commonwealth ships.
 
 ---
+
 ---
 
 ## Common Species
@@ -412,116 +449,181 @@ By far the galaxy’s most common sapient species are Humans, the Harnak, the Ty
 ---
 
 ## Birin  
+
 **Pronunciation:** BEER-in  
+
 **Average Height:** About 1.4 meters  
+
 **Physiology:** Small, agile mammalians that resemble upright foxes. They have narrow muzzles, large forward-facing eyes, and fur ranging from deep red to pale gold. Their ears swivel independently, and their long tails aid in balance and expression. Movements are fast, graceful, and unpredictable.  
+
 **Homeworld:** Biri  
+
 **Environment:** Temperate forests and misty high valleys. The terrain is dense and shifting, filled with narrow trails and sudden drops, encouraging quick thinking and adaptability.  
+
 **Cultural Focus:** Adaptability, cunning, and survival through wit. The Birin celebrate cleverness as both virtue and necessity. Their culture values independence and improvisation over rigid hierarchy.  
+
 **Reputation:** Known as couriers, smugglers, and information brokers. They are skilled navigators who can find their way through almost any situation. Others find them charming but difficult to trust completely.  
+
 **Aetheric Attunement:** Rare and subtle. When it appears, it often manifests as intuition, lucky timing, or heightened situational awareness rather than overt power. Most Birin who try formal Aether training struggle to maintain the patience required for mastery.  
+
 **Philosophy:** Radiant Birin emphasize humor, perspective, and compassion as shields against despair. Shadow Birin claim that deception is simply another form of wisdom and that survival justifies any trick.  
+
+**Design Notes:** Expressive faces and lively gestures, quick to smile or mock. Their voices are bright and fast-paced, often layered with teasing humor. Clothing is light, functional, and easy to shed or disguise. They move as if every step could turn into a sprint.  
+
 **Adventure Ideas:**  
+
 - A Birin courier needs protection while carrying a sealed memory crystal that sings in its sleep.  
 - A rumor spreads that a lost Birin colony ship still transmits coordinates once every seven years.  
 - A smuggler clan on Biri claims to have trapped a “living shadow” in an energy cage.  
-
-**Design Notes:** Expressive faces and lively gestures, quick to smile or mock. Their voices are bright and fast-paced, often layered with teasing humor. Clothing is light, functional, and easy to shed or disguise. They move as if every step could turn into a sprint.  
 
 ---
 
 ## Delor
 **Pronunciation:** DAY-lor  
+
 **Average Height:** About 1.6 meters  
+
 **Physiology:** Slender, hairless humanoids with smooth gray skin and large black eyes that reflect light like glass. Their fingers are long and narrow, and their heads slightly elongated, giving them a calm and contemplative appearance. Though physically delicate, they can endure long periods of stillness and low-gravity environments with ease.  
+
 **Homeworld:** Delos  
+
 **Environment:** A temperate world of silver plains, slow rivers, and pale skies. The landscape feels serene and unhurried, fostering a culture of reflection and quiet thought. Cities blend seamlessly with nature, built around observatories and soft-lit plazas.  
+
 **Cultural Focus:** Knowledge, exploration, and introspection. The Delor treat discovery as a dialogue rather than a conquest. They believe understanding the universe begins with understanding the self.  
+
 **Reputation:** Revered as scientists, navigators, and philosophers. Their advice carries great weight in the Commonwealth, though their reserve and precision can come across as cold. Many see them as the moral and intellectual compass of the Core Worlds.  
+
 **Aetheric Attunement:** Fairly common. Delor disciplines blur the line between science and mysticism, treating the Aether as both energy field and awareness state. Their attunement often expresses itself through telepathy, remote observation, and harmonizing technology with intent.  
+
 **Philosophy:** Radiant Delor pursue unity through comprehension and restraint. Shadow Delor believe knowledge itself transcends morality and that enlightenment comes from breaking boundaries, not preserving them.  
+
+**Design Notes:** Their posture is upright but unassuming, and their manner of speaking is slow, deliberate, and softly inflected. Clothing tends toward minimalist robes in neutral tones, often trimmed with exotic thread. Their presence radiates quiet focus rather than power.  
+
 **Adventure Ideas:**  
+
 - A Delor research station near the Uncharted edge transmits one final message: “Observation complete.”  
 - A revered philosopher renounces the Radiant path after glimpsing something alive within the Aether.  
 - A prototype hyperdrive built by Delor engineers begins predicting its own failures with eerie accuracy.  
 
-**Design Notes:** Their posture is upright but unassuming, and their manner of speaking is slow, deliberate, and softly inflected. Clothing tends toward minimalist robes in neutral tones, often trimmed with exotic thread. Their presence radiates quiet focus rather than power.  
-
 ---
 
 ## Harnak  
+
 **Pronunciation:** HAR-nak  
+
 **Height:** About 1.8 meters  
+
 **Physiology:** Amphibious humanoids with smooth scaled skin in shades of blue, green, or gray. Wide eyes adapted to dim light and gill slits along the neck allow them to breathe both air and water. Their movements are slow and deliberate, as if following a rhythm that others can’t hear.  
+
 **Homeworld:** Harnash  
+
 **Environment:** A humid archipelago of coral towers and ink-dark lagoons, covered by warm seas and bioluminescent shallows. Most Harnak cities are partially submerged, linked by subaquatic transit tunnels.  
+
 **Cultural Focus:** Trade, negotiation, and logistics. The Harnak see commerce as the natural current of civilization and believe balance is maintained through fair but strategic exchange.  
+
 **Reputation:** Known throughout the galaxy as patient and calculating merchants. They dominate much of the Outer Rim’s shipping and syndicate activity. Others respect their reliability but distrust their motives.  
+
 **Aetheric Attunement:** Uncommon but subtle when it manifests. Typical abilities include empathy, persuasion, and limited foresight. Their philosophy treats the Aether as a current that rewards balance and punishes greed.  
+
 **Philosophy:** Radiant Harnak emphasize harmony and equitable flow; Shadow Harnak exploit imbalance, claiming power lies in mastering the tides of desire and debt.  
+
+**Design Notes:** Frog-like grace, layered trade robes, jewelry that glows faintly with  shimmering. Their speech carries a slow, measured cadence, with pauses that feel like tides between thoughts.  
+
 **Adventure Ideas:**  
+
 - A Harnak broker vanishes mid-negotiation, leaving a fortune locked behind empathic encryption.  
 - A syndicate on Harnash hires outsiders to stop pirates who somehow predict convoys’ every jump.  
-- A Radiant adept seeks aid purifying clarminite “tainted” by corporate greed.  
-
-**Design Notes:** Amphibian grace, layered trade robes, jewelry that glows faintly with  shimmering. Their speech carries a slow, measured cadence, with pauses that feel like tides between thoughts.  
+- A Radiant adept seeks aid purifying clarminite “tainted” by corporate greed. 
 
 ---
 
 ## Human  
 **Average Height:** Around 1.7 meters  
+
 **Physiology:** Versatile bipedal mammals with wide genetic variation shaped by thousands of years of interstellar migration. Adapted strains differ subtly from system to system, some bred for low gravity with elongated frames, others for dense atmospheres or high-radiation environments. Average lifespans exceed 120 Galactic Standard Years, with regenerative medicine and partial cybernetic augmentation common even outside the Core.  
+
 **Homeworld:** Huma  
+
 **Environment:** A variable climate world of oceans and fertile continents, located deep in the Core region. It serves as an industrial and cultural heart of the Commonwealth rather than an ancestral origin myth. Most citizens see it as a place of bureaucracy, commerce, and heritage, not a sacred homeworld.  
+
 **Cultural Focus:** Expansion, innovation, and adaptation. Humans build where others hesitate, turning barren moons into ports and refineries. They treat change as opportunity, valuing ambition more than tradition. Their culture prizes progress and narrative. Every Human wants to be part of a story bigger than themselves.  
+
 **Reputation:** The most numerous and politically dominant species in the Commonwealth. Admired for ingenuity and endurance, distrusted for ambition and inconsistency. To the Harnak, they are reckless traders; to the Tyssari, emotionally blunt; to the Delor, fascinatingly chaotic. Yet no civilization functions without them.  
+
 **Aetheric Attunement:** Moderate but uneven. Some Humans display immense talent for Aetheric focus, while others show none at all. They lack a unified tradition, instead drawing from countless philosophies and martial schools. Their strength lies in flexibility rather than purity of doctrine.  
+
 **Philosophy:** Radiant Humans tend to express the Aether through empathy and service, framing it as the voice of conscience. Shadow Humans view it pragmatically, as a source of leverage, another system to master. Most live somewhere between, guided less by ideology than by circumstance.  
+
 **Distinct Traits:** Humanity’s identity is generally galactic, not planetary. Few even know which sun Huma circles. Their myths speak not of origins but of continuity; humans have always been where the light of civilization burns brightest. They are generalists in an age of specialists, equally at home on a pleasure world, a mining outpost, or a warship’s bridge.  
+
+**Design Notes:** Practical, expressive, and endlessly improvisational. Their style varies wildly. Core citizens favor sleek uniforms and luminous fabrics, while Outer Rim settlers mix scavenged armor and local craftwork. Humans thrive in transition; they are the galaxy’s constant motion made flesh.  
+
 **Adventure Ideas:**  
 
 - A Human engineer claims to have found proof that the Commonwealth itself has become Aether-reactive.  
 - A popular Human holo-preacher begins converting entire sectors with sermons broadcast through the Hypernet.  
 - A group of colonists vanish after attempting to terraform a world that “refused to remember” their genetic code.  
 
-**Design Notes:** Practical, expressive, and endlessly improvisational. Their style varies wildly. Core citizens favor sleek uniforms and luminous fabrics, while Outer Rim settlers mix scavenged armor and local craftwork. Humans thrive in transition; they are the galaxy’s constant motion made flesh.  
 
 ---
 
 ## Ruqan  
+
+
 **Pronunciation:** ROO-kan  
+
 **Average Height:** About 2.1 meters  
+
 **Physiology:** Tall, lean reptilian bipeds with skin that ranges from deep green to muted bronze, patterned with faint ridges that shift tone with temperature. Large, forward-set eyes grant excellent depth perception even in dim light. Small cranial spines act as sensory antennae for vibration and pressure changes. Hands have three long fingers and a strong opposing thumb built for grip and precision.  
+
 **Homeworld:** Ruqos  
+
 **Environment:** Mist-shrouded swamps and jungles of heavy humidity and dim light. The terrain is treacherous, filled with predators and shifting marshlands. Ruqan settlements are elevated on massive roots or stone pillars, connected by rope bridges and walkways.  
+
 **Cultural Focus:** Skill, discipline, and personal honor. The Ruqan trace their heritage to hunting guilds and mercenary traditions that prize patience, accuracy, and focus. They believe mastery of one’s craft is a moral duty.  
+
 **Reputation:** Respected as scouts, trackers, and sharpshooters. Known for calm professionalism and long memories, both virtues and warnings. Employers value their reliability; enemies fear their persistence.  
+
 **Aetheric Attunement:** Rare. When it appears, it sharpens their senses or grants limited precognition, allowing them to track movement through energy traces or “see” hidden targets. Radiant Ruqan teach the clarity of the hunt, striking only with purpose. Shadow Ruqan embrace predation as truth, claiming the strong have the right to claim the weak.  
+
+**Design Notes:** Quiet, efficient movements; deliberate speech; attire adapted to concealment and mobility. Their gear is functional, worn, and meticulously maintained. When they move, the air seems to pause.  
+
 **Adventure Ideas:**  
+
 - A Ruqan pathfinder offers to lead you through Unsettled Space for a price no one else is willing to name.  
 - A sniper duel between two old comrades threatens to reignite a planetary war.  
 - A guild relic has been stolen: a single arrow that hums with mystical resonance.  
 
-**Design Notes:** Quiet, efficient movements; deliberate speech; attire adapted to concealment and mobility. Their gear is functional, worn, and meticulously maintained. When they move, the air seems to pause.  
-
 ---
 
 ## Tyssari  
+
 **Pronunciation:** Tiss-AHR-ee  
+
 **Average Height:** Around 1.7 meters  
+
 **Physiology:** Near-human humanoids with smooth pastel or iridescent skin tones that can subtly shift with mood or environment. Eyes are large and reflective, adapted to low light, and teeth are narrow and sharp. Hair is fine and often carries metallic or bioluminescent tints. Many wear it long as a sign of vitality or social standing.  
+
 **Homeworld:** Tyssara  
-**Environment:** A warm, rain-fed world of luminescent forests and towering fungal structures that glow like cathedrals. Cities blend seamlessly into the natural landscape, using bioluminescent architecture and living materials.  
+
+**Environment:** A warm, rain-fed world of luminescent forests and towering fungal structures that glow like cathedrals. Cities blend seamlessly into the natural landscape, using bioluminescent architecture and living materials.
+  
 **Cultural Focus:** Empathy, art, and persuasion. Conversation is an art form, and understanding another’s emotions is considered a mark of respect. The Tyssari place immense value on connection and emotional clarity.  
+
 **Reputation:** Known across the galaxy as diplomats, mediators, and negotiators. Their ability to read emotional cues makes them excellent leaders but occasionally untrustworthy in the eyes of those who dislike being seen through.  
+
 **Aetheric Attunement:** Relatively common. Most Tyssari manifest empathic or emotional influence abilities—soothing, suggestion, and perception of intent. They often view these powers as natural extensions of empathy.  
+
 **Philosophy:** Radiant Tyssari seek serenity through understanding and believe empathy brings unity. Shadow Tyssari embrace passion and emotional manipulation as expressions of honesty and strength.  
+
+**Design Notes:** Graceful posture, soft-spoken cadence, and color-shifting garments that complement their skin tones. Their voices are musical, and their presence tends to disarm tension—or amplify it, if they choose.  
+
 **Adventure Ideas:**  
+
 - A Tyssari diplomat is accused of starting a war with a single misunderstood expression.  
 - A Shadow adept’s mood-altering broadcasts threaten to destabilize a peace summit.  
 - A Radiant empath asks for help quieting a telepathic chorus that won’t stop weeping.  
 
-**Design Notes:** Graceful posture, soft-spoken cadence, and color-shifting garments that complement their skin tones. Their voices are musical, and their presence tends to disarm tension—or amplify it, if they choose.  
 
 ---
 
@@ -533,7 +635,7 @@ Large agricultural bovine used for both food and work, occasionally as a draft m
 
 **Description:** Stocky and resilient, dwalls are bred for strength and endurance rather than speed. Their temperament is calm, though males can be dangerously territorial during the heat season.  
 **Mass:** 700–900 kg.  
-**Example Planets:** Yertil, Otenno.
+**Example Planets:** Yertil, Otenno.  
 
 ### Grick  
 Medium-sized carnivorous reptilian quadruped that hunts in small pods and breeds rapidly. 
@@ -576,13 +678,16 @@ Large, swift, domesticated herbivorous rodent commonly used as a riding animal.
 ---
 
 ## Exotic Materials
-**Clarminite** - a translucent silvery-white mineral that seems half solid matter, half light. Its crystalline lattice hums in subtle sympathy with the Aether, allowing it to carry both energy and intent. Clarminite cores form the hearts of hyperdrives and hyper-reactors, where raw power must be tuned like music. When pure, it resonates with a soft, steady glow; when corrupted, it fractures into dull shards that leak a ghostly static engineers occasionally call the "howl of the Aether."
+### Clarminite
+a translucent silvery-white mineral that seems half solid matter, half light. Its crystalline lattice hums in subtle sympathy with the Aether, allowing it to carry both energy and intent. Clarminite cores form the hearts of hyperdrives and hyper-reactors, where raw power must be tuned like music. When pure, it resonates with a soft, steady glow; when corrupted, it fractures into dull shards that leak a ghostly static engineers occasionally call the "howl of the Aether."
 
-**Fortiplas** - a high-tech composite of polymer layers and microcrystal fibers. Flexible under strain and rigid at rest, Fortiplas is ubiquitous in ship interiors, habitation domes, and personal armor. Light, durable, and cheap, it’s the galaxy’s workhorse material.
+### Fortiplas 
+a high-tech composite of polymer layers and microcrystal fibers. Flexible under strain and rigid at rest, Fortiplas is ubiquitous in ship interiors, habitation domes, and personal armor. Light, durable, and cheap, it’s the galaxy’s workhorse material.
 
-**Tungsteel** - dense, triple-bond alloy forged in stellar crucibles from three reactive metals. Its atomic lattice is extremely durable, granting it unmatched resilience against both kinetic and thermal stress. Used in starship hulls, armor, and fortress plating, Lighter than steel, tougher than tungsten, it is the physical backbone of modern civilization.
+### Tungsteel 
+A dense, triple-bond alloy forged in stellar crucibles from three reactive metals. Its atomic lattice is extremely durable, granting it unmatched resilience against both kinetic and thermal stress. Used in starship hulls, armor, and fortress plating, Lighter than steel, tougher than tungsten, it is the physical backbone of modern civilization.
 
-*"Clarminite for energy, fortiplas for utility and tungsteel for strength. Together with the hyperdrive they built the modern galaxy."*
+> *"Clarminite for energy, fortiplas for utility and tungsteel for strength. Together with the hyperdrive they built the modern galaxy."*
 
 ---
 
@@ -713,7 +818,7 @@ The neutral heart of the Galactic Commonwealth and keeper of Galactic Standard T
 
 ### Huma
 **Pronunciation:** HYOO-ma  
-**Affiliation:** Galactic Commonwealth
+**Affiliation:** Galactic Commonwealth  
 **Climate:** Variable  
 **Economy:** Huge, manufacturing  
 
@@ -784,7 +889,7 @@ A temperate, carefully seeded Commonwealth world whose blue continents and calm 
 ## Middle Rim
 
 ### Biri
-**Pronunciation:** BEER-ee
+**Pronunciation:** BEER-ee  
 **Affiliation:** Galactic Commonwealth  
 **Climate:** Temperate, wet  
 **Economy:** Large, service  
@@ -918,34 +1023,14 @@ Since the Uncharted Regions are defined by their lack of entry in galactic astro
 
 ---
 
-## Timekeeping
-Commonwealth’s clock consists of a day of twenty-four hours, a year of three-hundred-sixty-five days, with a leap day every fourth year. Coropolis keeps the time, and the Hypernet carries it; ships and stations fall into step when the beacons catch them. Worlds keep their own daylight as they please, but law, trade, and history are written in GST. When dates disagree, the galaxy believes the clock that speaks from Coropolis.
 
-The Galactic Standard timekeeping records time by descending order of scale year, day, hour; every archive reads the same from the Core to the Rim:
+## Appendix A: Relevant Public Domain Terminology and Technologies  
 
- 
+The following terms represent genre-relevant concepts that are in the public domain and may be freely referenced, adapted, or expanded upon within the *Aether Galaxy* setting.  
 
-This may be variously written. Examples include GSY 9000-127-08:17, 9000-127, among some other local variants.
-
----
-
----
-
----
-
-## Appendix B: Relevant Public Domain Terminology and Technologies  
-
-The following terms represent genre-relevant concepts that are in the public domain and may be freely referenced, adapted, or expanded upon within the **Aether Galaxy** setting. They are included here to provide a shared foundation for worldbuilders and contributors seeking language that evokes the mythic and exploratory tone of classic space opera while remaining fully IP-safe.
-
----
-
----
-
-## Appendix B: Relevant Public Domain Terminology and Technologies  
-
-The following terms represent genre-relevant concepts that are in the public domain and may be freely referenced, adapted, or expanded upon within the **Aether Galaxy** setting.  
 They are included here to provide a shared foundation for worldbuilders and contributors seeking language that evokes the mythic and exploratory tone of classic space opera while remaining fully IP-safe.  Absence from the list does not imply a term is necessarily copyrigted; additional research regarding omitted terms is recommended.   
-This appendix also serves as a public-domain awareness notice, clarifying which genre terms can be used without restriction when developing derivative or compatible works.  
+
+This appendix also serves as a public-domain awareness notice, highlighting many genre terms that can be used without restriction when developing derivative or compatible works.  
 
 ---
 
@@ -1169,6 +1254,7 @@ For full attribution wording and details, see the “Attribution Guide” sectio
 
 ### Tone and Style Guidelines
 Aether Galaxy is mythic science fiction. If you would like your artistic work based on it to reflect that genre, here are some tips: 
+
 Aether Galaxy blends wonder, mystery, and lived-in realism. Stories in this setting should feel grounded but never ordinary. Technology is operational instead of theoretical.  Ships fly, blasters fire, and clarminite hums. The details matter only as far as they serve story and atmosphere. Characters should face moral and emotional choices that reflect their beliefs about the Aether and the balance between harmony and discord. The galaxy is vast, but personal conviction shapes its fate. Language should be clear, direct, and accessible. Avoid unnecessary complexity. Focus on what is seen, heard, or felt rather than how it works.
 The goal is coherence instead of canon. Every creator adds a new light to the same sky.
 
@@ -1243,4 +1329,4 @@ Full license text: [https://creativecommons.org/licenses/by/4.0/](https://creati
 
 ---
 
-### *No canon; only coherence.*
+> *No canon; only coherence.*

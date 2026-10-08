@@ -1,3 +1,13 @@
+## 2026-10-8
+- Major formatting improvements across Foundational Guidebook
+- Fixed headings
+- Separators now format correctly
+- Contents section more consistent
+- Spacing more legible
+- Timekeeping elaborated and added to Life in the Galaxy section
+- Changed Harnak design notes description
+- 
+
 ## 2026-6-14
 - Downgraded headings in this document by one degree
 ### Foundation Guidebook - r9
