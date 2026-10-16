@@ -1,3 +1,18 @@
+## 2026-10-15
+### Field Catalog of Weros - r5
+- Fixed "Acquired"" Sunblade price
+- Fixed formatting for pulse disruptor glue charge, veilfield harness, Hover-sled
+- Added bolding to hyperdrive grades
+- Added block quotes to openingand closing quotes
+- Slight stylistic improvments to comments
+- Removed copyrighted language in pulse disruptor comment
+- Improved spacing on double section separators for compatibility
+- Added project motto to the end
+
+### Foundational Guidebook
+- trying out new options for exporting, under "agfg-test""
+- PDF of official may change if nothing breaks
+
 ## 2026-10-8
 - Major formatting improvements across Foundational Guidebook
 - Fixed headings
@@ -9,7 +24,8 @@
 - 
 
 ## 2026-6-14
-- Downgraded headings in this document by one degree
+- Downgraded headings in this document (Report on the Galaxy) by one degree
+
 ### Foundation Guidebook - r9
 - Added flavor text to the following sections: The Aether and Related Concepts, Galactic Politics, Entertainment and Leisure, Gazetteer
 - Fixed formatting for flavor text in Non-Sapient Life section
